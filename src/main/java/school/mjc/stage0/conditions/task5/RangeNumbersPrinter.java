@@ -2,7 +2,6 @@ package school.mjc.stage0.conditions.task5;
 
 public class RangeNumbersPrinter {
     public void printRange(int number) {
-        int number = 3;
         switch (number) {
             case (1):
             case (2):
